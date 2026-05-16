@@ -1,0 +1,4 @@
+project_id = "bwjbvretnproacoluebq"
+
+[functions.study-companion]
+verify_jwt = false
